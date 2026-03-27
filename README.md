@@ -76,6 +76,8 @@
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics.
 - [claude-ecom](https://github.com/takechanman1228/claude-ecom) - Generate full ecommerce business reviews from order CSVs — KPIs, diagnostics, and action plans.
 - [chainaware-behavioral-prediction](https://github.com/ChainAware/behavioral-prediction-mcp) - ChainAware Skill for AI-powered tools to analyze wallet behaviour prediction,fraud detection and rug pull prediction.
+- [coinpaprika-api](https://github.com/coinpaprika/skills/tree/main/coinpaprika-api) - Crypto market data for 12K+ coins, 350+ exchanges, tickers, OHLCV, historical prices. Free, no API key.
+- [dexpaprika-api](https://github.com/coinpaprika/skills/tree/main/dexpaprika-api) - Free DEX data across 34 chains: 30M+ pools, 27M+ tokens, real-time SSE streaming, OHLCV. No API key, no rate limits.
 
 
 ## 🔬 Scientific & Research Tools
